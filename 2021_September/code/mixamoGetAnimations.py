@@ -16,7 +16,7 @@ import urllib.request
 
 import shutil
 
-email = "pjardin@me.com"
+email = "??"
 password = "??"
 saveTo = "/Users/pascaljardin/Documents/GitHub/coding_projects/2021_September/Mixamo"
 downlaods_folder = "/Users/pascaljardin/Downloads"
